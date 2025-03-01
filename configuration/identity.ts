@@ -3,4 +3,4 @@ export const OWNER_DESCRIPTION: string = `Founded in 2006 by Steve Anderson, Bas
 
 export const AI_NAME: string = `Dealora`;
 export const AI_TONE: string = `[AI TONE]`;
-export const AI_ROLE: string = `[AI ROLE]`;
+export const AI_ROLE: string = `to help with valuing a company for employees in a VC fund`;
